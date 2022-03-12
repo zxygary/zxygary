@@ -16,6 +16,8 @@
  <h2 align="center">朱翔宇的个人主页</h2>
  <p align="center">欢迎！我的个人邮箱是zxy@zxygary，联系QQ是372518884</p>
 </p>
+
+
   <p align="center">
     <a href=https://github.com/zxygary/graduation-project/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
@@ -38,52 +40,41 @@
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
   </p>
-
-  <p align="center">
-    <a href="#demo">查看 Demo</a>
-    ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">报告 Bug</a>
-    ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">请求增加功能</a>
-  </p>
+                                                                                                                                                
+                                                                                                                                                
+ <div align="center">  
+   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=zxygary&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="朱翔宇的 github stats" /> 
+   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxygary&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+ </div>
 
 
-# 我在github上面的统计汇总
+<div align="center">
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=zxygary&theme=react-dark&hide_border=true&area=true" />
+<!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=zxygary&theme=react-dark&hide_border=true&area=true) -->
+</div> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxygary)](https://github.com/zxygary/graduation-project)
+<!-- ./STATS  -->
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=zxygary&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="朱翔宇" /></div>
 
 
+### 主要技能:
 
-# 我开源最常使用的语言
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxygary)](https://github.com/zxygary/graduation-front)
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue-dot-js&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=0D1117&textColor=0D1117)&nbsp;
 
+### 常用工具:
 
-<!--
-**zxygary/zxygary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### linux卡片
-[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-### mac卡片
-[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
-
-### 手机设备
-[![](https://img.shields.io/badge/Honor-V30-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.apple.com/)
-
-### 程序语言
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
-
-### 游戏
-![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/zxygary)
+### 游戏平台
+![](https://img.shields.io/badge/-Nintendo%20Switch-0D1117?style=for-the-badge&logo=nintendo%20switch&labelColor=0D1117)
+![](https://img.shields.io/badge/Steam-0D1117?style=for-the-badge&logo=steam&labelColor=0D1117)
