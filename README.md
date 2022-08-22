@@ -10,6 +10,7 @@
 > 对了，这是我的开源项目，有兴趣的话可以去看看哦~顺便能star一下就更好了  
 > [前端代码仓库在这里](https://github.com/zxygary/graduation-front)  
 > [后端代码仓库在这里](https://github.com/zxygary/graduation-project)  
+> [当然，我最喜欢的项目还是这个，别忘了进去看看](https://github.com/zxygary/project-SHP) 
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
